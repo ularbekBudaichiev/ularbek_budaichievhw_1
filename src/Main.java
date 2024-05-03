@@ -27,9 +27,9 @@ public class Main {
 
         System.out.println("Привет " + userName + "!");
 
-        scanner.close();
+        scanner.close();// final
 
-        }
     }
+}
 
 
